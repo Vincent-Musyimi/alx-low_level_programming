@@ -2,9 +2,8 @@
 
 /**
  * main - String of our function
- *
- * Description:program prints programming languages being multilingual
- * Returns a 0 value - Success
+ * Description: program prints programming languages being multilingual
+ * Returns: 0 Success
  */
 
 int main(void)
