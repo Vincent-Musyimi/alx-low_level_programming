@@ -1,9 +1,12 @@
 #include <stdioh.h>
 
+/*Using Puts
+ * No print function
+ * */
+
 int main(void)
 {
-	/* We are printing out using the puts command
-	 * no printf -*/
+
 	puts("Programming is like building a multilingual puzzle\n");
-	return (0);
+	return (0);	
 }
