@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /* Main - String of our function
- * Description: Our program is to print programming languages being multilingual
+ * Description: program prints programming languages being multilingual
  * Returns a 0 value - Success
- * */
+ */
 
 int main(void)
 {
