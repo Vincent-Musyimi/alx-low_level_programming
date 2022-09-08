@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/*Using Puts
- * No print function
+/*main - entry point which is none
+ * Description: Our program is about programming languages being multilingual
+ * returns a 0 value
  * */
 
 int main(void)
