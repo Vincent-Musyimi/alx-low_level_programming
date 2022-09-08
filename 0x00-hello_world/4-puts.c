@@ -1,9 +1,7 @@
 #include <stdio.h>
-
-/*
- * main - String of our function
+/* main: Entry point
  * Description: using the puts function
- * this program prints 'program prints programming languages being multilingual'
+ * prints 'program prints programming languages being multilingual'
  * return: 0
  */
 int main(void)
