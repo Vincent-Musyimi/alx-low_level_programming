@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*main - entry point which is none
- * Description: Our program is about programming languages being multilingual
- * returns a 0 value
+/*main - String of our function
+ * Description: Our program is to print programming languages being multilingual
+ * returns a 0 value - Success
  * */
 
 int main(void)
