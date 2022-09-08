@@ -3,9 +3,8 @@
 /**
  * main - String of our function
  * Description: program prints programming languages being multilingual
- * Returns: 0
+ * return: 0
  */
-
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
