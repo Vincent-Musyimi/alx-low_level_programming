@@ -3,7 +3,7 @@
 /**
  * main - String of our function
  * Description: program prints programming languages being multilingual
- * Returns: 0 Success
+ * Returns: 0
  */
 
 int main(void)
