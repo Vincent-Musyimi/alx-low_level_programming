@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/* Using puts
+/**
  * main - String of our function
  *
- * Description: program prints programming languages being multilingual
+ * Description:program prints programming languages being multilingual
  * Returns a 0 value - Success
  */
 
