@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/* Using puts
  * main - String of our function
  *
  * Description: program prints programming languages being multilingual
@@ -10,5 +10,5 @@
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return(0);	
+	return (0);	
 }
