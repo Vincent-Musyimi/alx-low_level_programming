@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*main - String of our function
+/* Main - String of our function
  * Description: Our program is to print programming languages being multilingual
- * returns a 0 value - Success
+ * Returns a 0 value - Success
  * */
 
 int main(void)
