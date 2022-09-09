@@ -1,9 +1,10 @@
 #include <stdio.h>
-/**
+/*
  * main - prints out the string
+ *
  * Description: using the puts function
  * prints 'program prints programming languages being multilingual'
- * return:0
+ * return: 0
  */
 int main(void)
 {
