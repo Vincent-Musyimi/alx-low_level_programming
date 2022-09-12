@@ -4,7 +4,7 @@
  *
  * Description: using the puts function
  * prints 'program prints programming languages being multilingual'
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
