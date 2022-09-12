@@ -6,7 +6,8 @@
  * this program prints the prints on comp sizes
  * return: 0
  */
-int main(void) {
+int main(void) 
+{
 	char c;
 	int i;
 	long li;
