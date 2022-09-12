@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prints the string
  *
  * Description: using the main function
