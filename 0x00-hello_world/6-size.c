@@ -4,7 +4,7 @@
  *
  * Description: Printing the size o various comp types
  * this program prints the prints on comp sizes
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
