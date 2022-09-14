@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-/* main - entry point
+/**
+ * main - entry point
  *
- * Description: Printing letters in reverse
+ * Description: printing letters in reverse
  * Program prints "z" to "a"
  * Return: 0
  */
