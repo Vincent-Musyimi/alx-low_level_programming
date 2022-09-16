@@ -3,6 +3,7 @@
 /**
  * islower - checks code
  *
+ * @c - variable
  * Description: checki lower than int c
  * Return: 0;
  */
