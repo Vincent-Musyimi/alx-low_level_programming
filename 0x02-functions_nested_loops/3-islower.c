@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * islower - checks code
+ * islower(int c) - checks code
  *
  * Return: 0;
  */
