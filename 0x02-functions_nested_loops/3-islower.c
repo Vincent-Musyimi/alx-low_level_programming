@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * islower(int c) - checks code
+ * islower - checks code
  *
+ * Description: checki lower than int c
  * Return: 0;
  */
 int _islower(int c)
