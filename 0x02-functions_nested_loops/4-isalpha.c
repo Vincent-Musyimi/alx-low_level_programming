@@ -2,8 +2,9 @@
 
 /**
  * _isalpha - checks upper and lower case
+ *
  * @c - variable
- * int c - variable
+ * Int c - variable
  * Return: 0
  */
 int _isalpha(int c)

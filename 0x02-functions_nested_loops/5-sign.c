@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign - function to 
+ * print_sign - function to
  *
  * Int n: argument to check the function
  * @n: argument to check the function
