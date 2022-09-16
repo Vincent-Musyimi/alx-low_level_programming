@@ -1,16 +1,16 @@
 #include "main.h"
 
 /**
- * main - checks code
+ * islower - checks code
  *
  * Return: 0;
  */
 int _islower(int c)
 {
-	if (c <= 'a' && c >= 'z')
+	if (c => 'a' && c <= 'z')
 	{
-		return (0);
-	}
-	else 
 		return (1);
+	}
+	else
+		return (0);
 }
